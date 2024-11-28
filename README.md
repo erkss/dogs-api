@@ -34,3 +34,28 @@ O projeto é estruturado em camadas bem definidas para facilitar a organização
 - **Service**: Responsável por toda a lógica de negócios e pela comunicação com APIs externas. Garante que os dados sejam processados e entregues no formato necessário para o consumo.
 - **Router**: Define as rotas e endpoints disponíveis para os clientes da API.
 - **Controller**: Pode ser utilizado para concentrar a lógica de manipulação de requisições e respostas, mantendo o código das rotas limpo e reutilizável.
+
+---
+
+## 🛠️ Como Instalar o Projeto
+### 1. Instale as Dependências
+
+Abra o terminal no diretório do projeto e execute o seguinte comando para instalar as dependências:
+
+```
+npm install
+```
+
+### 2. Rode o projeto
+
+```
+npm run start:dev
+```
+
+---
+
+## 🔗 Link da API Externa
+
+Este projeto consome dados da seguinte API externa para obter informações sobre raças de cães:
+
+-  [DogApi](https://dogapi.dog/api/v2/breeds)
