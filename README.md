@@ -1,10 +1,10 @@
-# API de Informações sobre Raças de Cães 🐶
+# API de Informações sobre Raças de Cães
 
 Este projeto é uma API desenvolvida utilizando **TypeScript** e **Node.js**, com o objetivo de fornecer informações sobre raças de cães de maneira simples e eficiente. A API consome dados de uma API externa e expõe endpoints que permitem consultar detalhes sobre raças específicas, oferecendo uma solução modular, escalável e adequada para integrar com aplicações maiores, como sistemas de gerenciamento de animais, catálogos ou serviços de adoção.
 
 O projeto foca na implementação de boas práticas de desenvolvimento, incluindo a separação clara de responsabilidades, uso de tipagem estática para maior confiabilidade e facilidade de manutenção.
 
-## 🧩 Objetivos do Projeto
+## Objetivos do Projeto
 
 - **Consumo de APIs Externas**: Realizar chamadas a um serviço externo para obter dados atualizados e confiáveis sobre raças de cães.
 - **Modularidade**: Estruturar o código de forma que cada componente (Model, Service, Router) tenha responsabilidades bem definidas.
@@ -13,7 +13,7 @@ O projeto foca na implementação de boas práticas de desenvolvimento, incluind
 
 ---
 
-## 🚀 Tecnologias e Ferramentas Utilizadas
+## Tecnologias e Ferramentas Utilizadas
 
 Este projeto utiliza um conjunto moderno de tecnologias e ferramentas, incluindo:
 
@@ -26,7 +26,7 @@ Este projeto utiliza um conjunto moderno de tecnologias e ferramentas, incluindo
 
 ---
 
-## 📂 Estrutura do Projeto
+## Estrutura do Projeto
 
 O projeto é estruturado em camadas bem definidas para facilitar a organização e a manutenção:
 
@@ -37,7 +37,7 @@ O projeto é estruturado em camadas bem definidas para facilitar a organização
 
 ---
 
-## 🛠️ Como Instalar o Projeto
+## Como Instalar o Projeto
 ### 1. Instale as Dependências
 
 Abra o terminal no diretório do projeto e execute o seguinte comando para instalar as dependências:
