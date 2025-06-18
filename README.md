@@ -56,6 +56,6 @@ npm run start:dev
 
 ## 🔗 Link da API Externa
 
-Este projeto consome dados da seguinte API externa para obter informações sobre raças de cães:
+Este projeto consome dados da seguinte API externa:
 
 -  [DogApi](https://dogapi.dog/api/v2/breeds)
