@@ -1,4 +1,6 @@
-# API de Informações sobre Raças de Cães
+<div align="justify">
+  
+## API de Informações sobre Raças de Cães
 
 Este projeto é uma API desenvolvida utilizando **TypeScript** e **Node.js**, com o objetivo de fornecer informações sobre raças de cães de maneira simples e eficiente. A API consome dados de uma API externa e expõe endpoints que permitem consultar detalhes sobre raças específicas, oferecendo uma solução modular, escalável e adequada para integrar com aplicações maiores, como sistemas de gerenciamento de animais, catálogos ou serviços de adoção.
 
@@ -59,3 +61,5 @@ npm run start:dev
 Este projeto consome dados da seguinte API externa para obter informações sobre raças de cães:
 
 -  [DogApi](https://dogapi.dog/api/v2/breeds)
+
+</div>
